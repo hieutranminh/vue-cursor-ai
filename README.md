@@ -1,5 +1,7 @@
 # Vue Cursor AI - Professional Vue 3.5 Boilerplate
 
+01-test here
+
 A professional Vue 3.5 boilerplate with TypeScript, Vite, and modern tooling for building scalable applications.
 
 ## 🚀 Features
@@ -75,17 +77,20 @@ vue-cursor-ai/
 ## 🛠️ Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone <repository-url>
    cd vue-cursor-ai
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Start development server**
+
    ```bash
    npm run dev
    ```
@@ -133,7 +138,7 @@ The project uses SCSS with a comprehensive design system:
   color: $primary-color;
   padding: $spacing-md;
   border-radius: $border-radius-lg;
-  
+
   @include mobile {
     padding: $spacing-sm;
   }
@@ -255,4 +260,4 @@ For major version updates, check the migration guides for each package.
 
 ---
 
-**Happy coding! 🎉** 
+**Happy coding! 🎉**
