@@ -1,6 +1,7 @@
 # Vue Cursor AI - Professional Vue 3.5 Boilerplate
 
 01-test here
+From 02_testtttt
 
 A professional Vue 3.5 boilerplate with TypeScript, Vite, and modern tooling for building scalable applications.
 
